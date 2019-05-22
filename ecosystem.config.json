@@ -1,0 +1,7 @@
+{
+  "name": "node-mailsend",
+  "script": "src/index.js",
+  "log_date_format": "DD/MM/YY HH:mm:ss",
+  "args": ["--color"],
+  "watch": ["./src/"]
+}
